@@ -1,4 +1,4 @@
-package work;
+package practice1;
 import java.util.Scanner;
 class Assignment8{//โปรแกรมคำนวนค่าสูงสุด-ต่ำสุด
     public static void main(String[] args) {
