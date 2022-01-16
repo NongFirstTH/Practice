@@ -1,4 +1,4 @@
-package work;
+package practice1;
 import java.util.Scanner;
 public class Assignment6 {//โปรแกรมแม่สูตรคูร
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package work;
+package practice1;
 import java.util.Scanner;
 class Assignment3 {//โปรแกรมแปลง พ.ศ=>ค.ศ.
     public static void main(String[] args) {

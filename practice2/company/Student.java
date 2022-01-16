@@ -1,4 +1,4 @@
-package work2.company;
+package practice2.company;
 
 class Student extends main2{
     public void Register(){

@@ -1,4 +1,4 @@
-package work;
+package practice1;
 class array2D{
     public static void main(String[] args) {
         String [][] object={

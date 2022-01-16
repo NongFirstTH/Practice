@@ -1,4 +1,4 @@
-package work2.company;
+package practice2.company;
 class Programmer extends Employee{
     public void skill(){
         System.out.println("No skill");

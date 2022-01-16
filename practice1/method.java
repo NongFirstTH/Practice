@@ -1,4 +1,4 @@
-package work;
+package practice1;
 class method {
     public static void main(String[] args){
        screen();

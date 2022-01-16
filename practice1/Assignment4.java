@@ -1,4 +1,4 @@
-package work;
+package practice1;
 import java.util.Scanner;
 class Assignment4{ 
     //โปรแกรมแลกธนบัตร มีแบงค์ 1000 500 100 50 20

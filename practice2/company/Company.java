@@ -1,4 +1,4 @@
-package work2.company;
+package practice2.company;
 class Company {
     //static attribute
     static String name="Tanabodee";

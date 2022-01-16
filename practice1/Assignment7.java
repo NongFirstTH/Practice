@@ -1,7 +1,5 @@
-package work;
-
+package practice1;
 import java.util.Scanner;
-
 public class Assignment7 {//โปรแกรมหาผลบวก
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);

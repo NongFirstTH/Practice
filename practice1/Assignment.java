@@ -1,4 +1,4 @@
-package work;
+package practice1;
 import java.util.Scanner;
 class Assignment{
 //โปรแกรมเปรียบเทียบตัวเลข

@@ -1,4 +1,4 @@
-package work;
+package practice1;
 import java.util.Scanner;
 class ifstatement{
     public static void main(String[] args) {

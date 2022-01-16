@@ -1,4 +1,4 @@
-package work;
+package practice1;
 class HELLO{
   public static void main(String[] args) {
     int x;

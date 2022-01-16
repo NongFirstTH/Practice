@@ -1,4 +1,4 @@
-package work;
+package practice1;
 class method2{
     public static void main(String[] args){
     int result= maxnum(1,2);

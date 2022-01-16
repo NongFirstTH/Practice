@@ -1,4 +1,4 @@
-package work;
+package practice1;
 
 public class dowhileloop {
     public static void main(String[] args) {

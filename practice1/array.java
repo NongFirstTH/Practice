@@ -1,4 +1,4 @@
-package work;
+package practice1;
 public class array {
     public static void main(String[] args) {
         int [] num={1,2,3};//แบบที่ 1

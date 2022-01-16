@@ -1,4 +1,4 @@
-package work;
+package practice1;
 import java.util.Scanner;
 public class Assignment9 {//โปรแกรมหาเลขคู่-คี่
     public static void main(String[] args) {

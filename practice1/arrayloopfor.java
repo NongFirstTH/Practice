@@ -1,4 +1,4 @@
-package work;
+package practice1;
 class arrayloopfor{
     public static void main(String[] args) {
         int [] num ={1,0,3,4};
